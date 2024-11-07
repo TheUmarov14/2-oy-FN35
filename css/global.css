@@ -31,8 +31,7 @@ html {
 /* HTML STYLE END */
 
 /* UL,OL STYLE START */
-ul,
-ol {
+li {
   list-style: none;
 }
 
